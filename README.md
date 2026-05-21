@@ -6,7 +6,7 @@ This project analyzes a retail sales dataset using PySpark DataFrames to extract
 
 ## Dashboard Preview
 
-![Retail Dashboard](dashboard/retail_dashboard_preview.png)
+![Retail Dashboard](dashboard/retail_dashboard.png)
 
 ## Dashboard Demo
 
