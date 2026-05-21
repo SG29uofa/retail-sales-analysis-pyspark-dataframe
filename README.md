@@ -1,9 +1,27 @@
-# Retail Sales Analysis using PySpark DataFrames
+# End-to-End Retail Sales Analytics using PySpark and Databricks
 A PySpark DataFrame project analyzing retail sales data using filtering, aggregation, joins, and Spark SQL to generate business insights.
 
 ## Objective
 This project analyzes a retail sales dataset using PySpark DataFrames to extract business insights through filtering, aggregation, joins, and SQL queries.
 
+## Dashboard Preview
+
+![Retail Dashboard](dashboard/retail_dashboard_preview.png)
+
+## Dashboard Demo
+
+A short demo video is available here:
+
+[Watch Dashboard Demo](dashboard/retail_dashboard_demo.mp4)
+
+## Project Workflow
+
+CSV Dataset  
+→ PySpark DataFrame Processing  
+→ Spark SQL Analysis  
+→ Delta Table Creation in Databricks  
+→ Interactive Databricks Dashboard  
+→ Business KPI Reporting
 ---
 
 ## Dataset
