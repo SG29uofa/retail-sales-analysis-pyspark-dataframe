@@ -17,11 +17,12 @@ A short demo video is available here:
 ## Project Workflow
 
 CSV Dataset  
-→ PySpark DataFrame Processing  
-→ Spark SQL Analysis  
-→ Delta Table Creation in Databricks  
-→ Interactive Databricks Dashboard  
-→ Business KPI Reporting
+  PySpark DataFrame Processing  
+  Spark SQL Analysis  
+  Delta Table Creation in Databricks  
+  Interactive Databricks Dashboard  
+  Business KPI Reporting
+  
 ---
 
 ## Dataset
